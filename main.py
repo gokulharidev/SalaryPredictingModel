@@ -17,7 +17,7 @@ model = DecisionTreeRegressor()
 model.fit(X_train, y_train)
 
 print ("Enter your number of degree finished ")
-# Make predictions
+# Make prediction
 predictions = model.predict(X_test)
 
 #Print the predictions
