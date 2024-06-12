@@ -19,6 +19,6 @@ model = DecisionTreeRegressor()
 model.fit(X_train, y_train)
 
 # Plot the decision tree
-fig, ax = plt.subplots(figsize=(15, 10))  # Adjust the size of the plot as needed
+fig, ax= plt.subplots(figsize=(15, 10))  # Adjust the size of the plot as needed
 tree.plot_tree(model, feature_names=X.columns, filled=True, rounded=True)
 plt.show()
