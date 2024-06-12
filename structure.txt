@@ -1,0 +1,8 @@
+structure
+
+1. base salary which is base for all teachers in the institution. It flutucte based on criteria
+2. Degree Finished: How many degree Finished by faculty 
+3. Experience: how many number of year faculty have experience in the field of teaching
+4. Subjects Taught: how many subjects faculty have taught
+5. Class Taught: how many class faculty have taught
+6. student strength: how many strength classroom have
